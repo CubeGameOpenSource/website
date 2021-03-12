@@ -1,0 +1,39 @@
+body{
+    background-color: #57efff;
+    font-family: serif;
+}
+
+a{
+    color: #000000;
+}
+
+#logo{
+    padding: 8%;
+    animation-name: logo;
+    animation-duration: 2s;
+    animation-iteration-count: 1;
+}
+
+#nav a:hover{
+    color: #ffffff;
+}
+
+#nav{
+    padding: 2%;
+}
+
+#nav a{
+    margin: 2%;
+    color: #000000;
+    font-size: 26pt;
+    text-decoration: none;
+}
+
+#nav p{
+    text-align: center;
+}
+
+@keyframes logo{
+    from{padding: 1%;}
+    to{padding: 8%;}
+}
