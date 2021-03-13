@@ -12,6 +12,6 @@ age [optional]
 description
 
 Or
-send messege in discord server on channel #🌳cube-game
+send messege in <a href="https://discord.com/invite/82AgSWb">discord server</a> on channel #🌳cube-game
 
 use template
