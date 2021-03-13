@@ -3,7 +3,7 @@
 
 ## Want CubeGame Account?
 
-Create Pull Request
+Create Issues
 
 Template
 
