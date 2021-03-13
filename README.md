@@ -5,5 +5,13 @@
 
 Create Pull Request
 
-[ss]
+Template
 
+nick
+age [optional]
+description
+
+Or
+send messege in discord server on channel #🌳cube-game
+
+use template
